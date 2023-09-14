@@ -1,4 +1,4 @@
-streamy
+# streamy
 
 Live Stream App Design with React Native and Figma
 
